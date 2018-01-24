@@ -5,8 +5,8 @@ public class IntFacts {
 		Scanner input = new Scanner(System.in);
 		int userNum;
 		String name;
-		Boolean isOdd;
-		Boolean isEven;
+		boolean isOdd;
+		boolean isEven;
 		String a;
 		
 		System.out.print("Please enter your name: ");
